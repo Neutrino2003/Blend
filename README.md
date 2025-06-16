@@ -7,8 +7,7 @@
 | Background Removed | ![](person_no_bg.png) |
 | Binary Mask | ![](person_binary_mask.png) |
 | Background Scene | ![](wallpaperflare.com_wallpaper.jpg) |
-| Raw Composite (with shadow blending)| ![](deadpool_final_with_shadow.png) |
-| Harmonized Output | ![](Final.png) |
+| Composite (with shadow blending)| ![](deadpool_final_with_shadow.png) |
 
 ## How It Works
 1. **Background Removal**
